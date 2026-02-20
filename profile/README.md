@@ -2,7 +2,7 @@
 
 Welcome to Fluvel's engineering node. This space centralizes the resources, specifications, and tools that make up our software architecture. 
 
-🔎 Exploring the ecosystem:
+Exploring the ecosystem:
 
 * **[Project Home](https://github.com/fluvel-project/fluvel)**: The core of the framework.
 
